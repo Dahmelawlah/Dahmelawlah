@@ -1,5 +1,8 @@
 ## About me 
+ ###   Hello World! :yellow_heart:
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
 
+<hr>
 - 👋 Hi, My name is Damilola Omoseni
 - 📈 I Have a Seven years experience trading the Foreign Exchange and U.S stock market, managed quite a few account for prop firms
 - 📈 I have a Bachelors degree in Pure Physics and a Master's degree in Mathematics and Data Science
